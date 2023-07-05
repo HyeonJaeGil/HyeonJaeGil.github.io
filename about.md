@@ -6,7 +6,7 @@ permalink: /about/
 
 # Hyeonjae Gil
 
-<img align="center" width=40% src="/images/about/selfie_film1.JPG">
+<img align="middle" width=40% src="/images/about/selfie_film1.JPG">
 
 <br>
 
