@@ -6,6 +6,10 @@ permalink: /about/
 
 # Hyeonjae Gil
 
+<img align="center" width=40% src="/images/about/selfie_film1.JPG">
+
+<br>
+
 I'm currently a master's student in [RPM SNU](https://rpm.snu.ac.kr/).\
 My research topics are SLAM and Localization with various sensors.\
 Contact me via email: [now9728@gmail.com](mailto:now9728@gmail.com)
