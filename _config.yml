@@ -6,7 +6,7 @@
 name: Hi, I'm Hyeonjae Gil
 
 # Short bio or description (displayed in the header)
-description: SLAM, Place Recognition, and everything.
+description: and this is a workspace of SLAM, Place Recognition, and everything.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/selfie_github.JPG
@@ -87,17 +87,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-author:
-  about:             |
-
-    ### Hyeonjae Gil
-
-    E-mail: now9728@gmail.com
-
-    [Current]
-  
-    * RPM lab, Seoul National University (master student)
-  
-    [Previous]
