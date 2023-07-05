@@ -6,8 +6,8 @@ permalink: /about/
 
 # Hyeonjae Gil
 
-I'm currently a master's student in [RPM SNU](https://rpm.snu.ac.kr/).
-My research topics are SLAM and Localization with various sensors.
+I'm currently a master's student in [RPM SNU](https://rpm.snu.ac.kr/).\
+My research topics are SLAM and Localization with various sensors.\
 Contact me via email: [now9728@gmail.com](mailto:now9728@gmail.com)
 
 ## Careers
@@ -50,8 +50,8 @@ Contact me via email: [now9728@gmail.com](mailto:now9728@gmail.com)
 
 ### 2D LiDAR-aided Monocular Image-based Depth Estimation
 *[International Conference on Intelligent Robots and Systems (IROS) 2020, Co-author]*
-• Designed hardware and software of sensor system with multiple modalities (2D LiDAR, RGB-D Camera).
-• Acquired KAIST RGBD-Scan Dataset for validating the Depth Estimation Deep Neural Network.
+- Designed hardware and software of sensor system with multiple modalities (2D LiDAR, RGB-D Camera).
+- Acquired KAIST RGBD-Scan Dataset for validating the Depth Estimation Deep Neural Network.
 
 
 ## Skills
