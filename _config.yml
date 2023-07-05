@@ -24,12 +24,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: HeyonJaeGil
   instagram:
-  linkedin:
+  linkedin: hyeonjae-gil-48bb00223
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -101,13 +101,3 @@ author:
     * RPM lab, Seoul National University (master student)
   
     [Previous]
-  
-  
-  
-  # Social media icons in sidebar
-  # Comment/uncommet to show/hide
-  # Icons appear in order, can be rearranged:
-  social:
-    github:          HyeonJaeGil
-    # instagram:       _username_
-    linkedin:        hyeonjae-gil-48bb00223
