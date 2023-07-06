@@ -11,7 +11,8 @@ permalink: /about/
 
 I'm currently a master's student in [RPM SNU](https://rpm.snu.ac.kr/).\
 My research topics are SLAM and Localization with various sensors.\
-Contact me via email: [now9728@gmail.com](mailto:now9728@gmail.com)
+Contact me via email: [now9728@gmail.com](mailto:now9728@gmail.com)\
+[My full CV is here](./public/cv/CV.pdf)
 
 ## Careers
 
