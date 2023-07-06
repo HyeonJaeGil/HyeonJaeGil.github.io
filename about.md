@@ -6,7 +6,7 @@ permalink: /about/
 
 # Hyeonjae Gil
 
-<img align="middle" src="/images/about/selfie_film1.JPG" width="40%">
+<img align="middle" src="/images/about/selfie.JPG" width="40%">
 
 
 I'm currently a master's student in [RPM SNU](https://rpm.snu.ac.kr/).\
@@ -40,6 +40,7 @@ Contact me via email: [now9728@gmail.com](mailto:now9728@gmail.com)
 ### Grid-wise Normalization for Thermal Image-based SLAM
 *[International Conference on Robotics and Automation (ICRA) 2023, Poster]*
 - Explore novel image normalization technique to enhance feature detection in Thermal Image-based SLAM.
+- [poster pdf](./public/poster/23icra.pdf)
 
 ### Long-term Place Recognition for Thermal Image
 *[Intelligent Service Robotics 2023, Co-author]*
@@ -50,6 +51,7 @@ Contact me via email: [now9728@gmail.com](mailto:now9728@gmail.com)
 *[Journal of Korea Robotics Society 2023]* 
 - Design real-time state estimator by tightly-fusing IMU, 3D LiDAR, and raw GNSS measurements
 - Overcome drawbacks of loosely-coupled GNSS fix measurements.
+- [poster pdf](./public/poster/22jkros.pdf)
 
 ### 2D LiDAR-aided Monocular Image-based Depth Estimation
 *[International Conference on Intelligent Robots and Systems (IROS) 2020, Co-author]*
